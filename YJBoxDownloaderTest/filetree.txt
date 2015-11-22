@@ -1,0 +1,36 @@
+﻿{
+    "ObjectList": {
+        "FirstResultPosition": 1, 
+        "Object": [
+            {
+                "ModifiedTime": "2011-12-16T03:24:43+09:00", 
+                "Name": "ディレクトリ", 
+                "Path": "/ディレクトリ", 
+                "Public": false, 
+                "PublicInherited": false, 
+                "PublicUrl": "https://box.yahoo.co.jp/guest/1", 
+                "Sid": "box-sid1", 
+                "Type": "dir", 
+                "UniqId": "uniq_id1"
+            }, 
+            {
+                "ContentType": "text/plain", 
+                "Etag": "etag", 
+                "Md5": "md5", 
+                "ModifiedTime": "2011-12-16T03:24:44+09:00", 
+                "Name": "ファイル.txt", 
+                "Path": "/ファイル.txt", 
+                "Public": false, 
+                "PublicInherited": false, 
+                "PublicUrl": "https://box.yahoo.co.jp/guest/2", 
+                "Sid": "box-sid2", 
+                "Size": 1000, 
+                "Type": "file", 
+                "UniqId": "uniq_id2", 
+                "Url": "http://box.yahoo.co.jp/path/to/file"
+            }
+        ], 
+        "TotalResultsAvailable": 10, 
+        "TotalResultsReturned": 10
+    }
+}
